@@ -54,5 +54,5 @@ This project provides a seamless experience for **Admins, Faculty, and Students*
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/academic-record-management.git
-   cd academic-record-management
+   git clone https://github.com/your-username/fyp.git
+   cd fyp
