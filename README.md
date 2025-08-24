@@ -33,7 +33,6 @@ This project provides a seamless experience for **Admins, Faculty, and Students*
 
 ## 🖼️ Screenshots  
 
-👉 Add your screenshots in this section for better visualization.  
 
 | Login Page | Dashboard | Timetable |  
 |------------|-----------|-----------|  
