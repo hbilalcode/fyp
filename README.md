@@ -43,7 +43,7 @@ This project provides a seamless experience for **Admins, Faculty, and Students*
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** HTML, CSS, JavaScript (Bootstrap / Tailwind)  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Version Control:** Git & GitHub  
