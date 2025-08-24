@@ -53,5 +53,5 @@ This project provides a seamless experience for **Admins, Faculty, and Students*
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/fyp.git
+   git clone https://github.com/hbilalcode/fyp.git
    cd fyp
